@@ -23,7 +23,7 @@ const shuffleReset = () => {
   font-family: "Poor Story", cursive;
   position: absolute;
   inset: 0;
-  background-color: transparent;
+  background-color: rgba(0, 0, 0, 0.25);
   z-index: 999;
 
   display: grid;
