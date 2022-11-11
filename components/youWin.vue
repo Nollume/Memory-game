@@ -21,7 +21,7 @@ const shuffleReset = () => {
 @import "./assets/normalize.scss";
 .modal {
   font-family: "Poor Story", cursive;
-  position: absolute;
+  position: fixed;
   inset: 0;
   background-color: rgba(0, 0, 0, 0.25);
   z-index: 999;
